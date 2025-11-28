@@ -1,4 +1,5 @@
 # Documentação do desafio: Ataque de força bruta com Kali Linux e Medusa
+# Links no final do documento
 
 # Justificativa sobre a Execução Prática
 
@@ -66,3 +67,12 @@ Comandos estudados:
    Mesmo sem conseguir executar o laboratório em VMs devido às limitações técnicas do ambiente, o estudo possibilitou compreender o funcionamento    dos ataques, a lógica interna das ferramentas e o impacto de cada técnica na segurança dos sistemas.
 
    As anotações servem como base para implementação prática futura, em um ambiente mais estável e controlado.
+
+## Evidências Complementares
+Devido ao tamanho dos arquivos, os registros em imagem foram disponibilizados externamente:
+
+👉 Acesse aqui: 
+    https://drive.google.com/file/d/1trgMlme26nTCBtmHQ9ia9mHa_pe-1n26/view?usp=sharing
+	https://drive.google.com/file/d/1JBXAqcXEuCvmpCz6n42VadUY_cIZDEM_/view?usp=sharing
+
+   https://drive.google.com/file/d/1trgMlme26nTCBtmHQ9ia9mHa_pe-1n26/view?usp=sharing
